@@ -69,10 +69,11 @@
 
 > پیش‌نیاز: نصب [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) و [Poppler](https://github.com/oschwartz10612/poppler-windows/releases)
 
+آدرس مخزن را از گزینه **Code** در صفحه همین پروژه کپی کرده و جایگزین `<repository-url>` کنید.
+
 ```bash
-git clone https://github.com/nerdznj/pdf-summarizer.git
+git clone <repository-url>
 cd pdf-summarizer
 pip install -r requirements.txt
 ```
-ساخته‌شده با عشق ❤️ توسط nerdznj | Amin_R@dikal
 
